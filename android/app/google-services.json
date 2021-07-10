@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "992274679497",
+    "project_id": "masjidpedia-95",
+    "storage_bucket": "masjidpedia-95.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992274679497:android:752338853631d053272f18",
+        "android_client_info": {
+          "package_name": "com.example.flutterappmasjidpedia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "992274679497-gik2r37qo7jm3ej0qjdljj6og3dru1ki.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutterappmasjidpedia",
+            "certificate_hash": "3c811a330a3ff8c9aebe3606bb41a44f7d78b472"
+          }
+        },
+        {
+          "client_id": "992274679497-722fiskb423h5u4oh4cl6oo7h9ll4ppm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuVyN4ays0iTKiCuhFZtHuoKpuhv2Pw8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "992274679497-722fiskb423h5u4oh4cl6oo7h9ll4ppm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
